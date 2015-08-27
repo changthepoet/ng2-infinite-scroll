@@ -1,0 +1,26 @@
+{
+  "name": "ng2-infinite-scroll",
+  "version": "0.0.0",
+  "description": "Infinite scrolling for angular2 apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valor-software/ng2-infinite-scroll.git"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "infinite-scroll",
+    "angular2-infinite-scroll",
+    "ng2-infinite-scroll"
+  ],
+  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valor-software/ng2-infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/valor-software/ng2-infinite-scroll#readme"
+}
